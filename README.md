@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **yash9785115297@gmail.com**
 
-- ↗ Visit my portfolio at **[Yash Gupta Portfolio](www.theyashgupta.me/)**
+- ↗ Visit my portfolio at **[Yash Gupta Portfolio](http://www.theyashgupta.me/)**
 
 - 👨‍💻 I solve dsa problems in **C++** , Also Interested in competitive programming
 
